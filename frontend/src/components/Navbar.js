@@ -31,19 +31,19 @@ function Navbar() {
             <a className="nav-link active" aria-current="page" href="/">Home</a>
             </li>
             <li className="nav-item">
-            <a className="nav-link active" href="/">About Us</a>
+            <a className="nav-link active" href="/about">About Us</a>
             </li>
             <li className="nav-item">
-            <a className="nav-link active" href="/">Get Started</a>
+            <a className="nav-link active" href="/signup">Get Started</a>
             </li>
             <li className="nav-item">
-            <a className="nav-link active" href="/">Sign In</a>
+            <a className="nav-link active" href="/login">Sign In</a>
             </li>
-            <li className="nav-item mx-3 my-2">
-            <i class="fa-regular fa-bell"></i>
+            <li className="nav-item">
+            <a className="nav-link active" href="/"><i class="fa-regular fa-bell"></i></a>
             </li>
-            <li className="nav-item mx-2 my-2">
-            <i class="fa-regular fa-moon"></i>
+            <li className="nav-item mx-1">
+            <a className="nav-link active" href="/"><i class="fa-regular fa-moon"></i></a>
             </li>
             
         </ul>

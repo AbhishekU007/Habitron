@@ -6,10 +6,16 @@
     "@fortawesome/fontawesome-svg-core": "^6.7.2",
     "@fortawesome/free-solid-svg-icons": "^6.7.2",
     "@fortawesome/react-fontawesome": "^0.2.2",
+    "@radix-ui/react-label": "^2.1.2",
+    "@tabler/icons-react": "^3.30.0",
+    "clsx": "^2.1.1",
     "cra-template": "1.2.0",
+    "motion": "^12.4.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-router-dom": "^7.1.5",
     "react-scripts": "5.0.1",
+    "tailwind-merge": "^3.0.1",
     "web-vitals": "^4.2.4"
   },
   "scripts": {
